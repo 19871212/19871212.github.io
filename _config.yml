@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Pythoner"
-title: "{ 生命不息,奋斗不止 }"
+title: "生命不息,奋斗不止"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "python, study"
 favicon: "/img/favicon.ico"
